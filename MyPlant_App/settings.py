@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'MyPlant_App.common',
     'MyPlant_App.accounts',
     'MyPlant_App.plants',
+    'MyPlant_App.catalogue',
 ]
 
 MIDDLEWARE = [
